@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * @author daixiongxing
- * @since 2021-06-21 下午10:32
+ * @since 2021-06-21 下午 10:32
  */
 //扩展 springmvc
 @Configuration
