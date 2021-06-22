@@ -9,7 +9,7 @@ import org.springframework.http.converter.json.GsonBuilderUtils;
 
 public class a {
     public static void main(String[] args) {
-        System.out.println("qe");
+        System.out.println("");
     }
 
 }
