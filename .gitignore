@@ -37,3 +37,4 @@ RUNNING_PID/
 dep.txt
 *.rdb
 change-project-name.sh
+/springboot/.gitignore
